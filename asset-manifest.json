@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/restaurant2/static/css/main.9ee483cb.css",
+    "main.js": "/restaurant2/static/js/main.a9eb1b2b.js",
+    "static/media/homeimage.jpg": "/restaurant2/static/media/homeimage.400cb484bc0614e1b0de.jpg",
+    "static/media/misosoup-modified.png": "/restaurant2/static/media/misosoup-modified.d00b50375cb24dfe0b96.png",
+    "static/media/rice-modified.png": "/restaurant2/static/media/rice-modified.fdcb0a66358fd757ab4d.png",
+    "static/media/kitchen-modified.png": "/restaurant2/static/media/kitchen-modified.d9298df92846b4b272c0.png",
+    "static/media/ramen.png": "/restaurant2/static/media/ramen.82045d877bb25303b0e4.png",
+    "static/media/cha-syu_don.png": "/restaurant2/static/media/cha-syu_don.97ec198c345f4d8b777a.png",
+    "static/media/soboro_don.png": "/restaurant2/static/media/soboro_don.4e480ee7e3b5f07e917f.png",
+    "static/media/karaage.png": "/restaurant2/static/media/karaage.6b89b4d4c7822fcad339.png",
+    "static/media/mizutaki.png": "/restaurant2/static/media/mizutaki.61cbd7c86b8e8399307d.png",
+    "static/media/dagojiru.png": "/restaurant2/static/media/dagojiru.bbe4c0a58cfe8a1dadc8.png",
+    "static/media/nikujaga.png": "/restaurant2/static/media/nikujaga.989f2da33f603c9ad567.png",
+    "static/media/chagashi_tea.png": "/restaurant2/static/media/chagashi_tea.9502ef59ba1b1d8d7146.png",
+    "static/media/spaghetti_tarako.png": "/restaurant2/static/media/spaghetti_tarako.6338ca9bcf4659d99835.png",
+    "static/media/nasu_nibitashi.png": "/restaurant2/static/media/nasu_nibitashi.d7eb154631ea0256cded.png",
+    "static/media/yakijake.png": "/restaurant2/static/media/yakijake.9de02e6a6ae8642eba3d.png",
+    "static/media/onigiri_ikura.png": "/restaurant2/static/media/onigiri_ikura.7161ba204485cb59d475.png",
+    "static/media/taiyaki.png": "/restaurant2/static/media/taiyaki.56d47fa064619851d6d9.png",
+    "static/media/curryrice_white.png": "/restaurant2/static/media/curryrice_white.64c11d3096fbb7f8c5a8.png",
+    "static/media/maccha_pafe.png": "/restaurant2/static/media/maccha_pafe.1072d9570cea8760e50a.png",
+    "index.html": "/restaurant2/index.html",
+    "main.9ee483cb.css.map": "/restaurant2/static/css/main.9ee483cb.css.map",
+    "main.a9eb1b2b.js.map": "/restaurant2/static/js/main.a9eb1b2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ee483cb.css",
+    "static/js/main.a9eb1b2b.js"
+  ]
+}
