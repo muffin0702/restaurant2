@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/restaurant2/static/css/main.17d035ce.css",
-    "main.js": "/restaurant2/static/js/main.a9eb1b2b.js",
+    "main.css": "/restaurant2/static/css/main.ebf84268.css",
+    "main.js": "/restaurant2/static/js/main.26e75310.js",
     "static/media/homeimage.jpg": "/restaurant2/static/media/homeimage.400cb484bc0614e1b0de.jpg",
     "static/media/misosoup-modified.png": "/restaurant2/static/media/misosoup-modified.d00b50375cb24dfe0b96.png",
     "static/media/rice-modified.png": "/restaurant2/static/media/rice-modified.fdcb0a66358fd757ab4d.png",
@@ -22,11 +22,11 @@
     "static/media/curryrice_white.png": "/restaurant2/static/media/curryrice_white.64c11d3096fbb7f8c5a8.png",
     "static/media/maccha_pafe.png": "/restaurant2/static/media/maccha_pafe.1072d9570cea8760e50a.png",
     "index.html": "/restaurant2/index.html",
-    "main.17d035ce.css.map": "/restaurant2/static/css/main.17d035ce.css.map",
-    "main.a9eb1b2b.js.map": "/restaurant2/static/js/main.a9eb1b2b.js.map"
+    "main.ebf84268.css.map": "/restaurant2/static/css/main.ebf84268.css.map",
+    "main.26e75310.js.map": "/restaurant2/static/js/main.26e75310.js.map"
   },
   "entrypoints": [
-    "static/css/main.17d035ce.css",
-    "static/js/main.a9eb1b2b.js"
+    "static/css/main.ebf84268.css",
+    "static/js/main.26e75310.js"
   ]
 }
