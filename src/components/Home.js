@@ -5,7 +5,7 @@ import ubereats from '../images/ubereats.png';
 function Home() {
   return (
     <div className='homecontainer'>
-      <h3>Japanese restaurant</h3>
+      <h3 className="subtitle">Japanese restaurant</h3>
       <h1 className="title">Achako</h1>
       <div className="homecontainerinside">
         <div>
